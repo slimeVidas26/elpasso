@@ -1,3 +1,24 @@
+npx create-react-app elpasso
+npm start
+create repo on github
+    git remote add origin https://github.com/slimeVidas26/elpasso.git
+    git push origin master
+
+amplify configure
+     us-east-1
+     elpasso-username
+     new user created
+
+npm install aws-amplify @aws-amplify/ui-react
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
